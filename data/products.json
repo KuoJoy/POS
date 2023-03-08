@@ -1,0 +1,98 @@
+[
+  {
+    "id": "product-1",
+    "imgUrl": "https://i.imgur.com/vR5OMw0.jpg",
+    "name": "美式咖啡",
+    "price": 90
+  },
+  {
+    "id": "product-2",
+    "imgUrl": "https://i.imgur.com/ZjlCqNA.jpg",
+    "name": "義式濃縮咖啡",
+    "price": 90
+  },
+  {
+    "id": "product-3",
+    "imgUrl": "https://i.imgur.com/zaJ6fZS.jpg",
+    "name": "拿鐵咖啡",
+    "price": 120
+  },
+  {
+    "id": "product-4",
+    "imgUrl": "https://i.imgur.com/LNkCJKq.jpg",
+    "name": "卡布奇諾",
+    "price": 120
+  },
+  {
+    "id": "product-5",
+    "imgUrl": "https://i.imgur.com/qk9J8Pd.jpg",
+    "name": "摩卡咖啡",
+    "price": 120
+  },
+  {
+    "id": "product-6",
+    "imgUrl": "https://i.imgur.com/Dy11lNG.jpg",
+    "name": "奶茶",
+    "price": 120
+  },
+  {
+    "id": "product-7",
+    "imgUrl": "https://i.imgur.com/567I4ig.jpg",
+    "name": "抹茶拿鐵",
+    "price": 90
+  },
+  {
+    "id": "product-8",
+    "imgUrl": "https://i.imgur.com/PzBGWL2.jpg",
+    "name": "草莓奶昔",
+    "price": 150
+  },
+  {
+    "id": "product-9",
+    "imgUrl": "https://i.imgur.com/xabOpOR.jpg",
+    "name": "檸檬茶",
+    "price": 90
+  },
+  {
+    "id": "product-10",
+    "imgUrl": "https://i.imgur.com/WeLlyDi.jpg",
+    "name": "巧克力牛奶",
+    "price": 100
+  },
+  {
+    "id": "product-11",
+    "imgUrl": "https://i.imgur.com/anOCjBR.jpg",
+    "name": "泡芙",
+    "price": 75
+  },
+  {
+    "id": "product-12",
+    "imgUrl": "https://i.imgur.com/6EuMzb2.jpg",
+    "name": "馬卡龍",
+    "price": 90
+  },
+  {
+    "id": "product-13",
+    "imgUrl": "https://i.imgur.com/BWRx5IP.jpg",
+    "name": "巧克力蛋糕",
+    "price": 70
+  },
+  {
+    "id": "product-14",
+    "imgUrl": "https://i.imgur.com/Or4eawe.jpg",
+    "name": "草莓杯子蛋糕",
+    "price": 70
+  },
+  {
+    "id": "product-15",
+    "imgUrl": "https://i.imgur.com/x42NFhx.jpg",
+    "name": "水果蛋糕",
+    "price": 70
+  },
+  {
+    "id": "product-16",
+    "imgUrl": "https://i.imgur.com/RpYTkOq.jpg",
+    "name": "手工餅乾",
+    "price": 50
+  }
+]
