@@ -7,7 +7,7 @@ let productData = [];
 let cartItems = [];
 let total = 0;
 
-axios.get("../products.json").then((res) => {
+axios.get("https://kuojoy.github.io/products.json").then((res) => {
   productData = res.data;
   displayProducts(productData);
 });
@@ -72,13 +72,13 @@ function calculateTotal(amount) {
 
 function submit() {
   if (cart.innerText === "") return;
-  let string = ''
-  cartItems.forEach(item => {
+  let string = "";
+  cartItems.forEach((item) => {
     string += `
     ${item.name} X ${item.quantity} 小計：$${item.price * item.quantity}
     `;
-  })
-  
+  });
+
   const text = `
   感謝購買！！
   ${string}
