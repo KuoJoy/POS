@@ -1,0 +1,9 @@
+.cart-box {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: auto;
+}
+.cart-box .delete {
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
