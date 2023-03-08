@@ -7,7 +7,7 @@ let productData = [];
 let cartItems = [];
 let total = 0;
 
-axios.get("https://kuojoy.github.io/products.json").then((res) => {
+axios.get("https://kuojoy.github.io/data/products.json").then((res) => {
   productData = res.data;
   displayProducts(productData);
 });
